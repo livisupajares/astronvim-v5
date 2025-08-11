@@ -14,4 +14,5 @@ return {
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.quarto" },
+  { import = "astrocommunity.pack.typst" },
 }
