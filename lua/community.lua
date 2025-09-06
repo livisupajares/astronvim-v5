@@ -15,6 +15,9 @@ return {
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.quarto" },
   { import = "astrocommunity.pack.typst" },
+  -- Add Nvchad statusline
+  { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
+
   -- Vim-Tmux integration
   {
     import = "astrocommunity.terminal-integration.vim-tmux-navigator",
